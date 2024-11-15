@@ -1,19 +1,19 @@
 # FreeToPlay-games-tracker
-##Overview
+## Overview
 Website for consult games free to play by categories. A simple method to easly found your type of game free, for more easly search using images and brief description. All the games showed in the site is by the API from FreeToGame. Some new free games that are not yet in the API database may not be updated.
 
-##Features
+## Features
 
-##Technologies Used
+## Technologies Used
 - HTMl
 - CSS
 - JavaScript
 - API
 
-##Requirements
+## Requirements
 
-##How to Use
+## How to Use
 
-##License
+## License
 
-##Acknowledgments
+## Acknowledgments
