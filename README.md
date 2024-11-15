@@ -1,11 +1,11 @@
-# FreeToPlay-games-tracker
+# Game-key-tracker
 ## Overview
-Website for consult games free to play by categories. A simple method to easly found your type of game free, for more easly search using images and brief description. All the games showed in the site is by the API from FreeToGame. Some new free games that are not yet in the API database may not be updated.
+Website for consult key and giveawayss from games available to claim. A simple method to easly found your type of game, for more easly search using images and brief description. The link for get your key will take you to the site for claim it. All the games showed in the site is by the API from Gamerpower.
 
 ## Features
 
 ## Technologies Used
-- HTMl
+- HTML
 - CSS
 - JavaScript
 - API
